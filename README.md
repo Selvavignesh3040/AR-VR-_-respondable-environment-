@@ -84,10 +84,9 @@ Overall the migration was very transparent thanks to the previous THREE.js knowl
 - [wikipedia.org](https://www.wikipedia.org/)
 
 # More images
+![Screensho7](https://github.com/user-attachments/assets/2455a2ec-30ef-485a-9327-29458b822a9f)
 
-![hallvr2](/screenshots/thehall2.jpg)
-![hallvr3](/screenshots/thehall3.jpg)
-![hallvr4](/screenshots/thehall4.jpg)
-![hallvr5](/screenshots/thehall5.jpg)
 
-[Live Demo](https://cecropia.github.io/thehallaframe/)
+![colorwave](https://github.com/user-attachments/assets/a7552326-0b2d-4857-b23e-fd55764aee3c)
+
+![thehall2](https://github.com/user-attachments/assets/38227c1a-cf0b-4c14-a10a-9026d8468b1c)
